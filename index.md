@@ -15,7 +15,7 @@
 
   <h2>Notable Achievements</h2>
 
-  <p>Founded a $31 million startup Walker & Co., a company making health and beauty products for people of color. It was later acquired by Procter & Gamble (owner of Gillette) between $20 million and $40 million.</p>
+  <p>Founded a $31 million startup Walker & Co., a company making health and beauty products for people of color. It was later acquired between $20 million and $40 million by Procter & Gamble (owner of Gillette).</p>
   <p>Founded CODE2040, a non-profit that connects black and Latinx college students with internships, mentors, companies, and peers in tech:</p>
   <ul>
     <li><a href="http://www.code2040.org/early-career-accelerator-program">Early Career Accelerator Program (ECAP)</a>: In-person workshops, mentorship and coaching, and online engagement for Black and Latinx tech professionals in the
