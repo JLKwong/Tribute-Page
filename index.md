@@ -30,7 +30,7 @@
   <p>“I prioritize faith, family, and work. Anything outside of that, I don’t focus on.”</p>
   <p>“Spend the first third of your life learning, the second earning, and the third returning. I try to shorten earning so I can maximize returning.”</p>
 
-  <h2>Education Path</h2>
+  <h2>Educational Path</h2>
 
   <p>State University of New York at Stony Brook, BA in Economics, 4.0 GPA (2002 - 2005)</p>
   <p>Stanford University Graduate School of Business, MBA (Masters of Business Administration) (2008 - 2010)</p>
