@@ -1,5 +1,7 @@
 # Summary
-This is a living tribute page project for Black History Month using HTML, CSS, Jekyll, and Markdown. It will be maintained throughout my career.
+This is a living tribute page project for Black History Month using HTML, CSS, Jekyll, and Markdown. It will be maintained throughout my career. You can find it at:
+
+https://jlkwong.github.io/Tribute-Page/
 
 # Goal/Purpose
 The goal/purpose of this project is to inspire black people by creating tribute pages, showcasing modern young black professionals in tech and/or business, that contain links to resources/programs for black people to get into tech and/or business.
