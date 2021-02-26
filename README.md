@@ -26,6 +26,6 @@ Unlike tribute pages that merely portray a biography, this tribute page helps bl
 **Kas**
 
 # Feedback
-I have revised this project over 20 times by listening to feedback. If you have any feedback, please:
+I have revised this project over 20 times by listening to feedback from over 3 people. If you have any feedback, please:
 * e-mail me: JLeeKwong@gmail.com
 * message me on Discord: Ludory#4452
