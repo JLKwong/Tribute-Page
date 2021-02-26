@@ -30,17 +30,17 @@
   <p>“I prioritize faith, family, and work. Anything outside of that, I don’t focus on.”</p>
   <p>“Spend the first third of your life learning, the second earning, and the third returning. I try to shorten earning so I can maximize returning.”</p>
 
-  <h2>Education</h2>
+  <h2>Education Path</h2>
 
   <p>State University of New York at Stony Brook, BA in Economics, 4.0 GPA (2002 - 2005)</p>
   <p>Stanford University Graduate School of Business, MBA (Masters of Business Administration) (2008 - 2010)</p>
 
-  <h2>Professional Experience</h2>
+  <h2>Professional Experience Path</h2>
 
   <p>2005 - 07: Energy trader, Lehman Brothers</p>
   <p>2007 - 08: Energy trader, J.P. Morgan</p>
   <p>2009: Intern, Twitter</p>
-  <p>2009: Consultant (Summer), The Boston Consulting Group</p>
+  <p>2009: Summer Consultant, The Boston Consulting Group</p>
   <p>2009 - 12: Director of Business Development, Foursquare</p>
   <p>2012 - 13: Entrepreneur-In-Residence, Andreessen Horowitz</p>
   <p>2012 - Now: Founder & Chairman Emeritus, CODE2040</p>
