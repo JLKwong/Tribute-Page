@@ -9,7 +9,7 @@ The goal/purpose of this Black History Month project is to inspire black people 
 # How do you decide who to make tribute pages of?
 
 ## Criteria 1: Modernity
-Is this person alive and born recently, or are they a dead person from a long time ago with a black-and-white photo?
+Is this person born during out times, or are they from a long time ago with black-and-white photos?
 
 Unlike tribute pages that show historical figures, this tribute page showcases successful black people from today's times. This is a lot more relatable and inspiring, and it conveys that black people succeed today (not just back then).
 
