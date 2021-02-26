@@ -17,11 +17,11 @@
 
   <p>Founded a $31 million startup Walker & Co., a company making health and beauty products for people of color. It was later sold between $20 million and $40 million to Proctoer & Gamble (owner of Gillette).</p>
   <p>Founded CODE2040, a program that connects black and Latinx college students with internships, mentors, companies, and peers in tech:</p>
-  <li>
-    <ul><a href="http://www.code2040.org/early-career-accelerator-program">Early Career Accelerator Program (ECAP)</a>: In-person workshops, mentorship and coaching, and online engagement for Black and Latinx tech professionals in the
-      beginning of their careers.</ul>
-    <ul><a href="http://www.code2040.org/fellows-program">Fellows Program</a>: 9-week internship program with a top tech company with workshops, panel discussions, and opportunites to engage in racial equity advocacy work.</ul>
-  </li>
+  <ul>
+    <li><a href="http://www.code2040.org/early-career-accelerator-program">Early Career Accelerator Program (ECAP)</a>: In-person workshops, mentorship and coaching, and online engagement for Black and Latinx tech professionals in the
+      beginning of their careers.</li>
+    <li><a href="http://www.code2040.org/fellows-program">Fellows Program</a>: 9-week internship program with a top tech company with workshops, panel discussions, and opportunites to engage in racial equity advocacy work.</li>
+  </ul>
   <p>Entrepreneur-in-residence</p>
 
   <h2>Quotes</h2>
