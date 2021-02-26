@@ -9,10 +9,14 @@ The goal/purpose of this project is to inspire black people by creating tribute 
 # How do you decide who to make tribute pages of?
 
 ## Criteria 1: Modernity
-Is this person alive and born recently, or are they a dead person from a long time ago with a black-and-white photo? Unlike tribute pages that show historical figures, this tribute page showcases successful black people from today's times. This is a lot more relatable and inspiring, and it conveys that black people succeed today (not just back then).
+Is this person alive and born recently, or are they a dead person from a long time ago with a black-and-white photo?
+
+Unlike tribute pages that show historical figures, this tribute page showcases successful black people from today's times. This is a lot more relatable and inspiring, and it conveys that black people succeed today (not just back then).
 
 ## Criteria 2: Resources/Programs
-Is this person in any way related to some resource/program for black people? Did they use a resource/program to spring into their success? Did they create a resource/program for black people? Do they recommend resources/programs? Unlike tribute pages that merely portray a biography, this tribute page helps black people take action to pursue success by increasing access to resources/programs and hyperlinking useful resources/programs.
+Is this person in any way related to some resource/program for black people? Did they use a resource/program to spring into their success? Did they create a resource/program for black people? Do they recommend resources/programs?
+
+Unlike tribute pages that merely portray a biography, this tribute page helps black people take action to pursue success by increasing access to resources/programs and hyperlinking useful resources/programs.
 
 # Credits
 **4REI**
