@@ -16,7 +16,7 @@ Unlike tribute pages that show historical figures, this tribute page showcases s
 ## Criteria 2: Resources/Programs
 Is this person in any way related to some resource/program for black people? Did they use a resource/program to spring into their success? Did they create a resource/program for black people? Do they recommend resources/programs?
 
-Unlike tribute pages that merely portray a biography, this tribute page helps black people take action to pursue success by increasing access to resources/programs and hyperlinking useful resources/programs.
+Unlike tribute pages that merely portray a biography, this tribute page helps black people take action to pursue success by hyperlinking effective resources/programs.
 
 # Credits
 **4REI**
