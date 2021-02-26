@@ -23,6 +23,8 @@ Unlike tribute pages that merely portray a biography, this tribute page helps bl
 
 **Bee**
 
+**Kas**
+
 # Feedback
 I have revised this project over 20 times by listening to feedback. If you have any feedback, please:
 * e-mail me: JLeeKwong@gmail.com
