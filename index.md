@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="/css/master.css">
 </head>
 
 <body>
@@ -13,16 +14,15 @@
 
   <p></p>
 
-  <h2>Achievements (as of 2021)</h2>
+  <h2>Notable Achievements (as of 2021)</h2>
 
   <p>Founded a $31 million startup Walker & Co., a company making health and beauty products for people of color. It was later sold between $20 million and $40 million to Proctoer & Gamble (owner of Gillette).</p>
-  <p>Founded CODE2040, a program that connects black and Latinx college students with internships, mentors, companies, and peers in tech:</p>
+  <p>Founded CODE2040, a non-profit that connects black and Latinx college students with internships, mentors, companies, and peers in tech:</p>
   <ul>
     <li><a href="http://www.code2040.org/early-career-accelerator-program">Early Career Accelerator Program (ECAP)</a>: In-person workshops, mentorship and coaching, and online engagement for Black and Latinx tech professionals in the
       beginning of their careers.</li>
     <li><a href="http://www.code2040.org/fellows-program">Fellows Program</a>: 9-week internship program with a top tech company with workshops, panel discussions, and opportunites to engage in racial equity advocacy work.</li>
   </ul>
-  <p>Entrepreneur-in-residence</p>
 
   <h2>Quotes</h2>
 
