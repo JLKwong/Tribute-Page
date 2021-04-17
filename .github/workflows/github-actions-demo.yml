@@ -22,10 +22,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Secret Test
-        run: 
+        run: echo "Oh whoa?"
 #          if: 0 == 0
 #          if [[ 1 == 1 ]]; then
-            echo "Oh whoa?"
 #        run:
 #            echo "What's this? :o"
 #          fi
