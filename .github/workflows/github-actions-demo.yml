@@ -24,7 +24,7 @@ jobs:
 #      - name: Secret Test
        - run:
 #          if: 0 == 0
-          run: echo "What's this? :o"
+          echo "What's this? :o"
 #          if [ "$SECRET_TEST" == 'test' ]
 #          then
 #            echo "YEET"
