@@ -3,11 +3,11 @@ on:
   push:
     branches: [ main ]
 jobs:
-  job1:
+  secret:
     runs-on: ubuntu-latest
-    steps:
-      - shell: bash
-        env:
-          SUPER_SECRET: ${{ secrets.SuperSecret }}
-        run: |
-          echo "$SUPER_SECRET"
+#    steps:
+#      - shell: bash
+#        env:
+#          SUPER_SECRET: ${{ secrets.SuperSecret }}
+#        run: |
+#          echo "$SUPER_SECRET"
