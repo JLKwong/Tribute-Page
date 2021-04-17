@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 #      - name: Secret Test
-       run: |
+       - run:
 #          if: 0 == 0
           echo "What's this? :o"
 #          if [ "$SECRET_TEST" == 'test' ]
