@@ -23,7 +23,7 @@ jobs:
     steps:
 #      - name: Secret Test
        - run:
-          if true
+          if [ 0 == 0 ]
           then
             echo "What's this? :o"
           fi
