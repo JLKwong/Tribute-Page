@@ -21,8 +21,8 @@ jobs:
   Secret-Test:
     runs-on: ubuntu-latest
     steps:
-      - name: Secret Test
-      run: |
+      - name: treehouses alpine
+        run: |
 #          if: 0 == 0
 #          if [[ 1 == 1 ]]; then
             echo "What's this? :o"
