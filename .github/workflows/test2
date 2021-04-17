@@ -1,6 +1,13 @@
-steps:
-  - shell: bash
-    env:
-      SUPER_SECRET: ${{ secrets.SuperSecret }}
-    run: |
-      echo "$SUPER_SECRET"
+name: Super Secret Test
+on:
+  push:
+    branches: [ main ]
+jobs:
+  job1:
+    runs-on: ubuntu-latest
+  steps:
+    - shell: bash
+      env:
+        SUPER_SECRET: ${{ secrets.SuperSecret }}
+      run: |
+        echo "$SUPER_SECRET"
