@@ -26,9 +26,10 @@ jobs:
         run: |
           echo "Oh whoa?"
           echo "What's this?"
+          if [[ 1 == 1 ]]; then
+            echo "Notices"
+          fi
 #          if: 0 == 0
-#          if [[ 1 == 1 ]]; then
-#          fi
 #          if [ "$SECRET_TEST" == 'test' ]
 #          then
 #            echo "YEET"
