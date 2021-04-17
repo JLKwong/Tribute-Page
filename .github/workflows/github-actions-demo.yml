@@ -18,11 +18,12 @@ jobs:
           ls ${{ github.workspace }}
       - run: echo "?? This job's status is ${{ job.status }}."
       - run: echo "Hello World! :D"
-#  Secret-Test:
-#    runs-on: ubuntu-latest
-#    steps:
-#      - name: Test
-#        run:
+  Secret-Test:
+    runs-on: ubuntu-latest
+    steps:
+#      - name: Secret Test
+        run:
+          echo "What's this? :o"
 #          if [ "$SECRET_TEST" == 'test' ]
 #          then
 #            echo "YEET"
