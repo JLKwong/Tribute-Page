@@ -25,8 +25,7 @@ jobs:
         run: echo "Oh whoa?"
 #          if: 0 == 0
 #          if [[ 1 == 1 ]]; then
-#        run:
-#            echo "What's this? :o"
+        run: echo "What's this? :o"
 #          fi
 #          if [ "$SECRET_TEST" == 'test' ]
 #          then
