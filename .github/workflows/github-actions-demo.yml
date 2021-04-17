@@ -23,10 +23,8 @@ jobs:
     steps:
 #      - name: Secret Test
        - run:
-          if [ 0 == 0 ]
-          then
-            echo "What's this? :o"
-          fi
+          if: 0 == 0
+          run: echo "What's this? :o"
 #          if [ "$SECRET_TEST" == 'test' ]
 #          then
 #            echo "YEET"
