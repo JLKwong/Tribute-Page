@@ -18,7 +18,7 @@ jobs:
           ls ${{ github.workspace }}
       - run: echo "?? This job's status is ${{ job.status }}."
       - run:
-          if [ "$SECRET_TEST" -eq 'test' ]; then
+          if [ "$SECRET_TEST" == 'test' ]; then
             echo "YEET"
           else
             echo ":("
