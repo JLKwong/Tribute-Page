@@ -27,7 +27,7 @@ jobs:
           echo "Oh whoa?"
           echo "What's this?"
           if [[ 1 == 1 ]]; then
-            echo "Notices"
+            echo "*Notices Folgers™ in your cup*"
           fi
 #          if: 0 == 0
 #          if [ "$SECRET_TEST" == 'test' ]
