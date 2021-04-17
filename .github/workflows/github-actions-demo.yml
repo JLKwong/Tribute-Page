@@ -23,7 +23,9 @@ jobs:
     steps:
 #      - name: Secret Test
        - run:
-          echo "What's this? :o"
+          if [ true ]; then
+            echo "What's this? :o"
+          fi
 #          if [ "$SECRET_TEST" == 'test' ]
 #          then
 #            echo "YEET"
