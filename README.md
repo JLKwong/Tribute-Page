@@ -3,6 +3,8 @@ This is a living tribute page project for Black History Month using HTML, CSS, J
 
 https://jlkwong.github.io/Tribute-Page/
 
+NOTE: Due to ethical concerns, the person being tributed has been removed. I am open to requests via my contact information below.
+
 # Goal/Purpose
 The goal/purpose of this Black History Month project is to inspire black people by creating tribute pages, of modern black professionals in tech and/or business, that contain links to resources/programs for black people to get into tech and/or business.
 
